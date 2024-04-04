@@ -1,0 +1,437 @@
+country_code,country_name,year,forest_area_sqkm,total_area_sq_mi,land_area_sqkm,pct_forest,region,income_group
+AFG,Afghanistan,2016,13500,252069.5,652860.005,2.067824633,South Asia,Low income
+AFG,Afghanistan,1990,13500,252069.5,652860.005,2.067824633,South Asia,Low income
+ALB,Albania,2016,7705.39978,10579.15,27399.9985,28.12189855,Europe & Central Asia,Upper middle income
+ALB,Albania,1990,7887.999878,10579.15,27399.9985,28.7883223,Europe & Central Asia,Upper middle income
+DZA,Algeria,2016,19635.99976,919590.73,2381739.991,0.824439269,Middle East & North Africa,Upper middle income
+DZA,Algeria,1990,16670,919590.73,2381739.991,0.699908473,Middle East & North Africa,Upper middle income
+ASM,American Samoa,2016,175,77.22,199.9998,87.5000875,East Asia & Pacific,Upper middle income
+ASM,American Samoa,1990,183.8999939,77.22,199.9998,91.9500889,East Asia & Pacific,Upper middle income
+AND,Andorra,2016,160,181.47,470.0073,34.04202445,Europe & Central Asia,High income
+AND,Andorra,1990,160,181.47,470.0073,34.04202445,Europe & Central Asia,High income
+AGO,Angola,2016,577311.9922,481351.35,1246699.997,46.30721054,Sub-Saharan Africa,Lower middle income
+AGO,Angola,1990,609760,481351.35,1246699.997,48.90992233,Sub-Saharan Africa,Lower middle income
+ATG,Antigua and Barbuda,2016,98.00000191,169.88,439.9892,22.27327441,Latin America & Caribbean,High income
+ATG,Antigua and Barbuda,1990,103.0000019,169.88,439.9892,23.40966594,Latin America & Caribbean,High income
+ARG,Argentina,2016,268151.9922,1056637.07,2736690.011,9.798405778,Latin America & Caribbean,High income
+ARG,Argentina,1990,347930,1056637.07,2736690.011,12.71353345,Latin America & Caribbean,High income
+ARM,Armenia,2016,3322.000122,10992.28,28470.0052,11.6684212,Europe & Central Asia,Upper middle income
+ARM,Armenia,1990,3350,10992.28,28470.0052,11.76676989,Europe & Central Asia,Upper middle income
+ABW,Aruba,2016,4.199999869,69.5,180.005,2.333268448,Latin America & Caribbean,High income
+ABW,Aruba,1990,4.199999869,69.5,180.005,2.333268448,Latin America & Caribbean,High income
+AUS,Australia,2016,1250590,2969891.89,7692019.995,16.25827807,East Asia & Pacific,High income
+AUS,Australia,1990,1285410,2966139,7682300.01,16.73209844,East Asia & Pacific,High income
+AUT,Austria,2016,38708.00049,31862.16,82522.9944,46.90571491,Europe & Central Asia,High income
+AUT,Austria,1990,37760,31884.17,82580.0003,45.72535706,Europe & Central Asia,High income
+AZE,Azerbaijan,2016,11656.19995,31918.92,82670.0028,14.09967286,Europe & Central Asia,Upper middle income
+AZE,Azerbaijan,1990,8520,32130.12,83217.0108,10.23829133,Europe & Central Asia,Upper middle income
+BHS,"Bahamas, The",2016,5150,3864.86,10009.9874,51.44861621,Latin America & Caribbean,High income
+BHS,"Bahamas, The",1990,5150,3864.86,10009.9874,51.44861621,Latin America & Caribbean,High income
+BHR,Bahrain,2016,6.100000143,300.39,778.0101,0.784051536,Middle East & North Africa,High income
+BHR,Bahrain,1990,2.199999988,266.41,690.0019,0.3188397,Middle East & North Africa,High income
+BGD,Bangladesh,2016,14264.00024,50258.69,130170.0071,10.95797762,South Asia,Lower middle income
+BGD,Bangladesh,1990,14940,50258.69,130170.0071,11.47729829,South Asia,Lower middle income
+BRB,Barbados,2016,63.00000191,166.02,429.9918,14.65144263,Latin America & Caribbean,High income
+BRB,Barbados,1990,63.00000191,166.02,429.9918,14.65144263,Latin America & Caribbean,High income
+BLR,Belarus,2016,86534.00391,78373.75,202988.0125,42.63010551,Europe & Central Asia,Upper middle income
+BLR,Belarus,1990,77800,78316.6,202839.994,38.35535511,Europe & Central Asia,Upper middle income
+BEL,Belgium,2016,6838.400269,11691.12,30280.0008,22.58388404,Europe & Central Asia,High income
+BEL,Belgium,1990,6670,,,,Europe & Central Asia,High income
+BLZ,Belize,2016,13612.80029,8806.95,22810.0005,59.67908808,Latin America & Caribbean,Upper middle income
+BLZ,Belize,1990,16160.30029,8806.95,22810.0005,70.84743505,Latin America & Caribbean,Upper middle income
+BEN,Benin,2016,42610,43536.68,112760.0012,37.78822237,Sub-Saharan Africa,Low income
+BEN,Benin,1990,57610,43536.68,112760.0012,51.0908118,Sub-Saharan Africa,Low income
+BMU,Bermuda,2016,10,20.85,54.0015,18.51800413,North America,High income
+BMU,Bermuda,1990,10,20.85,54.0015,18.51800413,North America,High income
+BTN,Bhutan,2016,27648.50098,14727.41,38143.9919,72.48455026,South Asia,Lower middle income
+BTN,Bhutan,1990,25067.09961,18039.77,46723.0043,53.65044476,South Asia,Lower middle income
+BOL,Bolivia,2016,544750,418262.55,1083300.005,50.28616244,Latin America & Caribbean,Lower middle income
+BOL,Bolivia,1990,627950,418262.55,1083300.005,57.96639873,Latin America & Caribbean,Lower middle income
+BIH,Bosnia and Herzegovina,2016,21850,19768.34,51200.0006,42.67578075,Europe & Central Asia,Upper middle income
+BIH,Bosnia and Herzegovina,1990,22100,19768.34,51200.0006,43.16406199,Europe & Central Asia,Upper middle income
+BWA,Botswana,2016,107377.998,218814.67,566729.9953,18.94694103,Sub-Saharan Africa,Upper middle income
+BWA,Botswana,1990,137180,218814.67,566729.9953,24.20553017,Sub-Saharan Africa,Upper middle income
+BRA,Brazil,2016,4925540,3227081.08,8358139.997,58.93105406,Latin America & Caribbean,Upper middle income
+BRA,Brazil,1990,5467050,3227081.08,8358139.997,65.40988787,Latin America & Caribbean,Upper middle income
+VGB,British Virgin Islands,2016,36.19999886,57.92,150.0128,24.13127337,Latin America & Caribbean,High income
+VGB,British Virgin Islands,1990,37.10000038,57.92,150.0128,24.73122319,Latin America & Caribbean,High income
+BRN,Brunei Darussalam,2016,3800,2034.75,5270.0025,72.10622765,East Asia & Pacific,High income
+BRN,Brunei Darussalam,1990,4130,2034.75,5270.0025,78.36808427,East Asia & Pacific,High income
+BGR,Bulgaria,2016,38401.99951,41915.06,108560.0054,35.37398452,Europe & Central Asia,Upper middle income
+BGR,Bulgaria,1990,33270,42714.29,110630.0111,30.07321401,Europe & Central Asia,Upper middle income
+BFA,Burkina Faso,2016,52902.00195,105637.07,273600.0113,19.33552623,Sub-Saharan Africa,Low income
+BFA,Burkina Faso,1990,68470,105637.07,273600.0113,25.02558376,Sub-Saharan Africa,Low income
+BDI,Burundi,2016,2806.000061,9915.06,25680.0054,10.92678922,Sub-Saharan Africa,Low income
+BDI,Burundi,1990,2890,9915.06,25680.0054,11.25389171,Sub-Saharan Africa,Low income
+CPV,Cabo Verde,2016,908.6000061,1555.98,4029.9882,22.54597187,Sub-Saharan Africa,Lower middle income
+CPV,Cabo Verde,1990,577.5,1555.98,4029.9882,14.33006677,Sub-Saharan Africa,Lower middle income
+KHM,Cambodia,2016,93295.99609,68154.44,176519.9996,52.85293242,East Asia & Pacific,Lower middle income
+KHM,Cambodia,1990,129440,68154.44,176519.9996,73.32880144,East Asia & Pacific,Lower middle income
+CMR,Cameroon,2016,185960,182513.51,472709.9909,39.33913046,Sub-Saharan Africa,Lower middle income
+CMR,Cameroon,1990,243160,182513.51,472709.9909,51.43957282,Sub-Saharan Africa,Lower middle income
+CAN,Canada,2016,3470224.063,3511007.72,9093509.995,38.1615467,North America,High income
+CAN,Canada,1990,3482730,3511007.72,9093509.995,38.29907266,North America,High income
+CYM,Cayman Islands,2016,126.9999981,92.66,239.9894,52.91900313,Latin America & Caribbean,High income
+CYM,Cayman Islands,1990,126.9999981,92.66,239.9894,52.91900313,Latin America & Caribbean,High income
+CAF,Central African Republic,2016,221544.0039,240532.82,622980.0038,35.56197672,Sub-Saharan Africa,Low income
+CAF,Central African Republic,1990,225600,240532.82,622980.0038,36.21304033,Sub-Saharan Africa,Low income
+TCD,Chad,2016,47483.99902,486177.61,1259200.01,3.770965585,Sub-Saharan Africa,Low income
+TCD,Chad,1990,67050,486177.61,1259200.01,5.324809361,Sub-Saharan Africa,Low income
+CHI,Channel Islands,2016,8.000000119,76.45,198.0055,4.04029187,Europe & Central Asia,High income
+CHI,Channel Islands,1990,8.000000119,76.45,198.0055,4.04029187,Europe & Central Asia,High income
+CHL,Chile,2016,180358.0078,287078,743532.02,24.25692545,Latin America & Caribbean,High income
+CHL,Chile,1990,152630,287078,743532.02,20.52769698,Latin America & Caribbean,High income
+CHN,China,2016,2098635,3624791.51,9388210.011,22.35394178,East Asia & Pacific,Upper middle income
+CHN,China,1990,1571405.938,3624806.95,9388250.001,16.73800695,East Asia & Pacific,Upper middle income
+COL,Colombia,2016,584750.1953,428378.38,1109500.004,52.70393809,Latin America & Caribbean,Upper middle income
+COL,Colombia,1990,644170,428378.38,1109500.004,58.05948604,Latin America & Caribbean,Upper middle income
+COM,Comoros,2016,365.9999847,718.53,1860.9927,19.66692211,Sub-Saharan Africa,Low income
+COM,Comoros,1990,490,718.53,1860.9927,26.33003343,Sub-Saharan Africa,Low income
+COD,"Congo, Dem. Rep.",2016,1522665.938,875308.88,2267049.999,67.16507966,Sub-Saharan Africa,Low income
+COD,"Congo, Dem. Rep.",1990,1603630,875308.88,2267049.999,70.7364196,Sub-Saharan Africa,Low income
+COG,"Congo, Rep.",2016,223185.9961,131853.28,341499.9952,65.35461178,Sub-Saharan Africa,Lower middle income
+COG,"Congo, Rep.",1990,227260,131853.28,341499.9952,66.54758512,Sub-Saharan Africa,Lower middle income
+CRI,Costa Rica,2016,27861.99951,19714.29,51060.0111,54.56716305,Latin America & Caribbean,Upper middle income
+CRI,Costa Rica,1990,25640,19714.29,51060.0111,50.21542191,Latin America & Caribbean,Upper middle income
+CIV,Cote d'Ivoire,2016,104005.9961,122779.92,317999.9928,32.70628882,Sub-Saharan Africa,Lower middle income
+CIV,Cote d'Ivoire,1990,102220,122779.92,317999.9928,32.14465482,Sub-Saharan Africa,Lower middle income
+HRV,Croatia,2016,19224.00024,21606.18,55960.0062,34.35310599,Europe & Central Asia,High income
+HRV,Croatia,1990,18500,21586.87,55909.9933,33.08889683,Europe & Central Asia,High income
+CUB,Cuba,2016,32536.00098,40162.16,104019.9944,31.2786029,Latin America & Caribbean,Upper middle income
+CUB,Cuba,1990,20580,41467.18,107399.9962,19.16201185,Latin America & Caribbean,Upper middle income
+CUW,Curacao,2016,,171.43,444.0037,,Latin America & Caribbean,High income
+CUW,Curacao,1990,,171.43,444.0037,,Latin America & Caribbean,High income
+CYP,Cyprus,2016,1726.699982,3567.57,9240.0063,18.6872165,Europe & Central Asia,High income
+CYP,Cyprus,1990,1611.100006,3567.57,9240.0063,17.43613536,Europe & Central Asia,High income
+CZE,Czech Republic,2016,26690,29814.67,77219.9953,34.56358667,Europe & Central Asia,High income
+CZE,Czech Republic,1990,26290,29833.98,77270.0082,34.02355016,Europe & Central Asia,High income
+DNK,Denmark,2016,6172.199707,16212.36,41990.0124,14.69920906,Europe & Central Asia,High income
+DNK,Denmark,1990,5432.000122,16366.8,42390.012,12.81433967,Europe & Central Asia,High income
+DJI,Djibouti,2016,55.99999905,8949.81,23180.0079,0.241587489,Middle East & North Africa,Lower middle income
+DJI,Djibouti,1990,55.99999905,8949.81,23180.0079,0.241587489,Middle East & North Africa,Lower middle income
+DMA,Dominica,2016,430.6000137,289.58,750.0122,57.41240125,Latin America & Caribbean,Upper middle income
+DMA,Dominica,1990,500,289.58,750.0122,66.66558224,Latin America & Caribbean,Upper middle income
+DOM,Dominican Republic,2016,20161.99951,18652.51,48310.0009,41.73462872,Latin America & Caribbean,Upper middle income
+DOM,Dominican Republic,1990,11050,18652.51,48310.0009,22.87311073,Latin America & Caribbean,Upper middle income
+ECU,Ecuador,2016,124691.5039,95891.89,248359.9951,50.2059536,Latin America & Caribbean,Upper middle income
+ECU,Ecuador,1990,146308.4961,106888.03,276839.9977,52.84947887,Latin America & Caribbean,Upper middle income
+EGY,"Egypt, Arab Rep.",2016,735.9999847,384343.63,995450.0017,0.073936409,Middle East & North Africa,Lower middle income
+EGY,"Egypt, Arab Rep.",1990,440,384343.63,995450.0017,0.044201115,Middle East & North Africa,Lower middle income
+SLV,El Salvador,2016,2606.000061,8000,20720,12.57722037,Latin America & Caribbean,Lower middle income
+SLV,El Salvador,1990,3770,8000,20720,18.19498069,Latin America & Caribbean,Lower middle income
+GNQ,Equatorial Guinea,2016,15564.00024,10830.12,28050.0108,55.48661051,Sub-Saharan Africa,Upper middle income
+GNQ,Equatorial Guinea,1990,18600,10830.12,28050.0108,66.3101349,Sub-Saharan Africa,Upper middle income
+ERI,Eritrea,2016,15055.99976,38996.14,101000.0026,14.90693007,Sub-Saharan Africa,Low income
+ERI,Eritrea,1990,16210,38996.14,101000.0026,16.04950454,Sub-Saharan Africa,Low income
+EST,Estonia,2016,22316.00098,16783.78,43469.9902,51.33656777,Europe & Central Asia,High income
+EST,Estonia,1990,22060,16366.8,42390.012,52.04056088,Europe & Central Asia,High income
+SWZ,Eswatini,2016,5905.999756,6640.93,17200.0087,34.33719052,Sub-Saharan Africa,Lower middle income
+SWZ,Eswatini,1990,4720,6640.93,17200.0087,27.44184658,Sub-Saharan Africa,Lower middle income
+ETH,Ethiopia,2016,125395.9961,386100.39,1000000.01,12.53959948,Sub-Saharan Africa,Low income
+ETH,Ethiopia,1990,,386100.39,1000000.01,,Sub-Saharan Africa,Low income
+FRO,Faroe Islands,2016,0.799999982,539,1396.01,0.057306178,Europe & Central Asia,High income
+FRO,Faroe Islands,1990,0.799999982,539,1396.01,0.057306178,Europe & Central Asia,High income
+FJI,Fiji,2016,10220.59998,7054.05,18269.9895,55.94201343,East Asia & Pacific,Upper middle income
+FJI,Fiji,1990,9529.000244,7054.05,18269.9895,52.15657209,East Asia & Pacific,Upper middle income
+FIN,Finland,2016,222180,117339.77,303910.0043,73.10716885,Europe & Central Asia,High income
+FIN,Finland,1990,218750,117602.32,304590.0088,71.81785143,Europe & Central Asia,High income
+FRA,France,2016,171020,211411.97,547557.0023,31.23327787,Europe & Central Asia,High income
+FRA,France,1990,144360,211415.45,547566.0155,26.36394442,Europe & Central Asia,High income
+PYF,French Polynesia,2016,1550,1413.13,3660.0067,42.34964925,East Asia & Pacific,High income
+PYF,French Polynesia,1990,550,1413.13,3660.0067,15.0272949,East Asia & Pacific,High income
+GAB,Gabon,2016,232000,99486.49,257670.0091,90.03764187,Sub-Saharan Africa,Upper middle income
+GAB,Gabon,1990,220000,99486.49,257670.0091,85.38052246,Sub-Saharan Africa,Upper middle income
+GMB,"Gambia, The",2016,4896.000061,3907.34,10120.0106,48.37939657,Sub-Saharan Africa,Low income
+GMB,"Gambia, The",1990,4420,3907.34,10120.0106,43.67584358,Sub-Saharan Africa,Low income
+GEO,Georgia,2016,28223.99902,26830.12,69490.0108,40.61590824,Europe & Central Asia,Lower middle income
+GEO,Georgia,1990,27520,26830.12,69490.0108,39.60281439,Europe & Central Asia,Lower middle income
+DEU,Germany,2016,114210,134888.03,349359.9977,32.69120699,Europe & Central Asia,High income
+DEU,Germany,1990,113000,134799.23,349130.0057,32.3661668,Europe & Central Asia,High income
+GHA,Ghana,2016,93654.00391,87853.28,227539.9952,41.15935918,Sub-Saharan Africa,Lower middle income
+GHA,Ghana,1990,86270,87853.28,227539.9952,37.91421369,Sub-Saharan Africa,Lower middle income
+GIB,Gibraltar,2016,,3.86,9.9974,,Europe & Central Asia,High income
+GIB,Gibraltar,1990,,3.86,9.9974,,Europe & Central Asia,High income
+GRC,Greece,2016,40841.99951,49768.34,128900.0006,31.68502663,Europe & Central Asia,High income
+GRC,Greece,1990,32990,49768.34,128900.0006,25.5934832,Europe & Central Asia,High income
+GRL,Greenland,2016,2.199999988,158474.9,410449.991,0.000535997,Europe & Central Asia,High income
+GRL,Greenland,1990,2.199999988,131930.5,341699.995,0.00064384,Europe & Central Asia,High income
+GRD,Grenada,2016,169.8999977,131.27,339.9893,49.97216021,Latin America & Caribbean,Upper middle income
+GRD,Grenada,1990,169.8999977,131.27,339.9893,49.97216021,Latin America & Caribbean,Upper middle income
+GUM,Guam,2016,250,208.49,539.9891,46.29723081,East Asia & Pacific,High income
+GUM,Guam,1990,250,208.49,539.9891,46.29723081,East Asia & Pacific,High income
+GTM,Guatemala,2016,35036.00098,41374.52,107160.0068,32.6950343,Latin America & Caribbean,Upper middle income
+GTM,Guatemala,1990,47480,41374.52,107160.0068,44.30757464,Latin America & Caribbean,Upper middle income
+GIN,Guinea,2016,63280,94872.59,245720.0081,25.75288862,Sub-Saharan Africa,Low income
+GIN,Guinea,1990,72640,94872.59,245720.0081,29.56210223,Sub-Saharan Africa,Low income
+GNB,Guinea-Bissau,2016,19620,10857.14,28119.9926,69.77242234,Sub-Saharan Africa,Low income
+GNB,Guinea-Bissau,1990,22160,10857.14,28119.9926,78.80514165,Sub-Saharan Africa,Low income
+GUY,Guyana,2016,165160,76003.86,196849.9974,83.90144891,Latin America & Caribbean,Upper middle income
+GUY,Guyana,1990,166600,76003.86,196849.9974,84.63297038,Latin America & Caribbean,Upper middle income
+HTI,Haiti,2016,961.9999695,10640.93,27560.0087,3.490564825,Latin America & Caribbean,Low income
+HTI,Haiti,1990,1160,10640.93,27560.0087,4.20899722,Latin America & Caribbean,Low income
+HND,Honduras,2016,44720,43200.77,111889.9943,39.96782758,Latin America & Caribbean,Lower middle income
+HND,Honduras,1990,81360,43200.77,111889.9943,72.71427665,Latin America & Caribbean,Lower middle income
+HKG,"Hong Kong SAR, China",2016,,405.41,1050.0119,,East Asia & Pacific,High income
+HKG,"Hong Kong SAR, China",1990,,382.24,990.0016,,East Asia & Pacific,High income
+HUN,Hungary,2016,20736.00098,34953.67,90530.0053,22.90511407,Europe & Central Asia,High income
+HUN,Hungary,1990,18010,34698.84,89869.9956,20.04005884,Europe & Central Asia,High income
+ISL,Iceland,2016,505,38706.56,100249.9904,0.503740697,Europe & Central Asia,High income
+ISL,Iceland,1990,161.0000038,38706.56,100249.9904,0.160598523,Europe & Central Asia,High income
+IND,India,2016,708603.9844,1147949.81,2973190.008,23.83312141,South Asia,Lower middle income
+IND,India,1990,639390,1147949.81,2973190.008,21.50518461,South Asia,Lower middle income
+IDN,Indonesia,2016,903256.0156,699447.88,1811570.009,49.86039794,East Asia & Pacific,Lower middle income
+IDN,Indonesia,1990,1185450,699447.88,1811570.009,65.43771392,East Asia & Pacific,Lower middle income
+IRN,"Iran, Islamic Rep.",2016,106919.8047,628864.86,1628759.987,6.564491118,Middle East & North Africa,Upper middle income
+IRN,"Iran, Islamic Rep.",1990,90760.5957,628864.86,1628759.987,5.572373855,Middle East & North Africa,Upper middle income
+IRQ,Iraq,2016,8250,167616.99,434128.0041,1.900361166,Middle East & North Africa,Upper middle income
+IRQ,Iraq,1990,8040,168868.73,437370.0107,1.838260467,Middle East & North Africa,Upper middle income
+IRL,Ireland,2016,7597.000122,26598.46,68890.0114,11.02772371,Europe & Central Asia,High income
+IRL,Ireland,1990,4650,26598.46,68890.0114,6.749890014,Europe & Central Asia,High income
+IMN,Isle of Man,2016,34.60000038,220.08,570.0072,6.07009883,Europe & Central Asia,High income
+IMN,Isle of Man,1990,34.60000038,220.08,570.0072,6.07009883,Europe & Central Asia,High income
+ISR,Israel,2016,1671.999969,8355.21,21639.9939,7.726434567,Middle East & North Africa,High income
+ISR,Israel,1990,1320,8355.21,21639.9939,6.099816877,Middle East & North Africa,High income
+ITA,Italy,2016,93507.99805,113567.57,294140.0063,31.79030259,Europe & Central Asia,High income
+ITA,Italy,1990,75900,113555.98,294109.9882,25.80667201,Europe & Central Asia,High income
+JAM,Jamaica,2016,3348.200073,4181.47,10830.0073,30.91595398,Latin America & Caribbean,Upper middle income
+JAM,Jamaica,1990,3446.000061,4181.47,10830.0073,31.81900035,Latin America & Caribbean,Upper middle income
+JPN,Japan,2016,249564.0039,140756.76,364560.0084,68.45622069,East Asia & Pacific,High income
+JPN,Japan,1990,249500,140772.2,364599.998,68.43115781,East Asia & Pacific,High income
+JOR,Jordan,2016,975,34277.99,88779.9941,1.098220393,Middle East & North Africa,Upper middle income
+JOR,Jordan,1990,975,34069.5,88240.005,1.104941007,Middle East & North Africa,Upper middle income
+KAZ,Kazakhstan,2016,33090,1042355.21,2699699.994,1.225691746,Europe & Central Asia,Upper middle income
+KAZ,Kazakhstan,1990,34220,1042355.21,2699699.994,1.267548249,Europe & Central Asia,Upper middle income
+KEN,Kenya,2016,44496.00098,219745.17,569139.9903,7.818111842,Sub-Saharan Africa,Lower middle income
+KEN,Kenya,1990,47240,219745.17,569139.9903,8.300242613,Sub-Saharan Africa,Lower middle income
+KIR,Kiribati,2016,121.4999962,312.74,809.9966,15.00006249,East Asia & Pacific,Lower middle income
+KIR,Kiribati,1990,121.4999962,312.74,809.9966,15.00006249,East Asia & Pacific,Lower middle income
+PRK,"Korea, Dem. People’s Rep.",2016,49040,46490.35,120410.0065,40.72751213,East Asia & Pacific,Low income
+PRK,"Korea, Dem. People’s Rep.",1990,82010,46490.35,120410.0065,68.10895737,East Asia & Pacific,Low income
+KOR,"Korea, Rep.",2016,61763.99902,37640.54,97488.9986,63.35483994,East Asia & Pacific,High income
+KOR,"Korea, Rep.",1990,63700,37243.24,96459.9916,66.0377416,East Asia & Pacific,High income
+XKX,Kosovo,2016,,4203.47,10886.9873,,Europe & Central Asia,Lower middle income
+XKX,Kosovo,1990,,4203.47,10886.9873,,Europe & Central Asia,Lower middle income
+KWT,Kuwait,2016,62.5,6880.31,17820.0029,0.35072946,Middle East & North Africa,High income
+KWT,Kuwait,1990,34.50000048,6880.31,17820.0029,0.193602665,Middle East & North Africa,High income
+KGZ,Kyrgyz Republic,2016,6290,74054.05,191799.9895,3.279457948,Europe & Central Asia,Lower middle income
+KGZ,Kyrgyz Republic,1990,8360,74054.05,191799.9895,4.358707225,Europe & Central Asia,Lower middle income
+LAO,Lao PDR,2016,189505.8008,89111.97,230800.0023,82.10823176,East Asia & Pacific,Lower middle income
+LAO,Lao PDR,1990,176449.0039,89111.97,230800.0023,76.45104079,East Asia & Pacific,Lower middle income
+LVA,Latvia,2016,33563.99902,24007.72,62179.9948,53.97877425,Europe & Central Asia,High income
+LVA,Latvia,1990,31730,24013.9,62196.001,51.0161417,Europe & Central Asia,High income
+LBN,Lebanon,2016,1373.800049,3949.81,10230.0079,13.42912012,Middle East & North Africa,Upper middle income
+LBN,Lebanon,1990,1310,3949.81,10230.0079,12.80546421,Middle East & North Africa,Upper middle income
+LSO,Lesotho,2016,500,11722.01,30360.0059,1.646903501,Sub-Saharan Africa,Lower middle income
+LSO,Lesotho,1990,400,11722.01,30360.0059,1.317522801,Sub-Saharan Africa,Lower middle income
+LBR,Liberia,2016,41490,37189.19,96320.0021,43.07516517,Sub-Saharan Africa,Low income
+LBR,Liberia,1990,49290,37189.19,96320.0021,51.17317164,Sub-Saharan Africa,Low income
+LBY,Libya,2016,2170,679359.07,1759539.991,0.123327689,Middle East & North Africa,Upper middle income
+LBY,Libya,1990,2170,679359.07,1759539.991,0.123327689,Middle East & North Africa,Upper middle income
+LIE,Liechtenstein,2016,69.00000095,61.78,160.0102,43.12225155,Europe & Central Asia,High income
+LIE,Liechtenstein,1990,65,61.78,160.0102,40.62241032,Europe & Central Asia,High income
+LTU,Lithuania,2016,21820,24186.1,62641.999,34.8328603,Europe & Central Asia,High income
+LTU,Lithuania,1990,19450,24200.77,62679.9943,31.0306346,Europe & Central Asia,High income
+LUX,Luxembourg,2016,866.9999695,938.22,2429.9898,35.67916085,Europe & Central Asia,High income
+LUX,Luxembourg,1990,870,,,,Europe & Central Asia,High income
+MAC,"Macao SAR, China",2016,,11.74,30.4066,,East Asia & Pacific,High income
+MAC,"Macao SAR, China",1990,,7.72,19.9948,,East Asia & Pacific,High income
+MDG,Madagascar,2016,124570,224633.2,581799.988,21.41113829,Sub-Saharan Africa,Low income
+MDG,Madagascar,1990,136920,224532.82,581540.0038,23.544382,Sub-Saharan Africa,Low income
+MWI,Malawi,2016,31290,36401.54,94279.9886,33.18837907,Sub-Saharan Africa,Low income
+MWI,Malawi,1990,38960,36401.54,94279.9886,41.32372159,Sub-Saharan Africa,Low income
+MYS,Malaysia,2016,222091.9922,126853.28,328549.9952,67.59762455,East Asia & Pacific,Upper middle income
+MYS,Malaysia,1990,223760,126853.28,328549.9952,68.10531221,East Asia & Pacific,Upper middle income
+MDV,Maldives,2016,10,115.83,299.9997,3.333336667,South Asia,Upper middle income
+MDV,Maldives,1990,10,115.83,299.9997,3.333336667,South Asia,Upper middle income
+MLI,Mali,2016,46360,471115.83,1220190,3.79940829,Sub-Saharan Africa,Low income
+MLI,Mali,1990,66900,471115.83,1220190,5.482752687,Sub-Saharan Africa,Low income
+MLT,Malta,2016,3.49999994,123.55,319.9945,1.09376878,Middle East & North Africa,High income
+MLT,Malta,1990,3.49999994,123.55,319.9945,1.09376878,Middle East & North Africa,High income
+MHL,Marshall Islands,2016,126.4000034,69.5,180.005,70.22027355,East Asia & Pacific,Upper middle income
+MHL,Marshall Islands,1990,130,,,,East Asia & Pacific,Upper middle income
+MRT,Mauritania,2016,2210,397953.67,1030700.005,0.214417385,Sub-Saharan Africa,Lower middle income
+MRT,Mauritania,1990,4150,397953.67,1030700.005,0.402638981,Sub-Saharan Africa,Lower middle income
+MUS,Mauritius,2016,386.3999939,783.78,2029.9902,19.03457435,Sub-Saharan Africa,Upper middle income
+MUS,Mauritius,1990,410.9999847,783.78,2029.9902,20.24640241,Sub-Saharan Africa,Upper middle income
+MEX,Mexico,2016,659483.9844,750559.85,1943950.012,33.92494563,Latin America & Caribbean,Upper middle income
+MEX,Mexico,1990,697600,750559.85,1943950.012,35.88569644,Latin America & Caribbean,Upper middle income
+FSM,"Micronesia, Fed. Sts.",2016,643.0000305,270.27,699.9993,91.85723907,East Asia & Pacific,Lower middle income
+FSM,"Micronesia, Fed. Sts.",1990,640,,,,East Asia & Pacific,Lower middle income
+MDA,Moldova,2016,4136.000061,12698.84,32889.9956,12.5752527,Europe & Central Asia,Lower middle income
+MDA,Moldova,1990,3190,12691.12,32870.0008,9.704897847,Europe & Central Asia,Lower middle income
+MCO,Monaco,2016,,0.77,1.9943,,Europe & Central Asia,High income
+MCO,Monaco,1990,,0.77,1.9943,,Europe & Central Asia,High income
+MNG,Mongolia,2016,124555.1953,599830.12,1553560.011,8.017404827,East Asia & Pacific,Lower middle income
+MNG,Mongolia,1990,125360,599830.12,1553560.011,8.069208729,East Asia & Pacific,Lower middle income
+MNE,Montenegro,2016,8270,5193.05,13449.9995,61.48699113,Europe & Central Asia,Upper middle income
+MNE,Montenegro,1990,6260,5193.05,13449.9995,46.54275266,Europe & Central Asia,Upper middle income
+MAR,Morocco,2016,56240,172316.6,446299.994,12.60138937,Middle East & North Africa,Lower middle income
+MAR,Morocco,1990,49540,172316.6,446299.994,11.10015699,Middle East & North Africa,Lower middle income
+MOZ,Mozambique,2016,377336.0156,303621.62,786379.9958,47.98392859,Sub-Saharan Africa,Low income
+MOZ,Mozambique,1990,433780,303621.62,786379.9958,55.16162699,Sub-Saharan Africa,Low income
+MMR,Myanmar,2016,284945.9961,252154.44,653079.9996,43.63110129,East Asia & Pacific,Lower middle income
+MMR,Myanmar,1990,392180,252332.05,653540.0095,60.00856785,East Asia & Pacific,Lower middle income
+NAM,Namibia,2016,68447.99805,317872.59,823290.0081,8.313959525,Sub-Saharan Africa,Upper middle income
+NAM,Namibia,1990,87620,317872.59,823290.0081,10.6426653,Sub-Saharan Africa,Upper middle income
+NRU,Nauru,2016,,7.72,19.9948,,East Asia & Pacific,Upper middle income
+NRU,Nauru,1990,,7.72,19.9948,,East Asia & Pacific,Upper middle income
+NPL,Nepal,2016,36360,55347.49,143349.9991,25.36449266,South Asia,Low income
+NPL,Nepal,1990,48170,55212.36,143000.0124,33.68531176,South Asia,Low income
+NLD,Netherlands,2016,3766.000061,13007.72,33689.9948,11.17839312,Europe & Central Asia,High income
+NLD,Netherlands,1990,3450,13034.75,33760.0025,10.21919356,Europe & Central Asia,High income
+NCL,New Caledonia,2016,8390,7057.92,18280.0128,45.89712322,East Asia & Pacific,High income
+NCL,New Caledonia,1990,8390,7057.92,18280.0128,45.89712322,East Asia & Pacific,High income
+NZL,New Zealand,2016,101522.002,101664.09,263309.9931,38.55607636,East Asia & Pacific,High income
+NZL,New Zealand,1990,96580,101664.09,263309.9931,36.67920038,East Asia & Pacific,High income
+NIC,Nicaragua,2016,31140,46463.32,120339.9988,25.87668299,Latin America & Caribbean,Lower middle income
+NIC,Nicaragua,1990,45140,46463.32,120339.9988,37.51038761,Latin America & Caribbean,Lower middle income
+NER,Niger,2016,11295.99976,489073.36,1266700.002,0.891765986,Sub-Saharan Africa,Low income
+NER,Niger,1990,19450,489073.36,1266700.002,1.535485905,Sub-Saharan Africa,Low income
+NGA,Nigeria,2016,65833.99902,351648.65,910770.0035,7.22838903,Sub-Saharan Africa,Lower middle income
+NGA,Nigeria,1990,172340,351648.65,910770.0035,18.92245016,Sub-Saharan Africa,Lower middle income
+MKD,North Macedonia,2016,9980,9737.45,25219.9955,39.5717755,Europe & Central Asia,Upper middle income
+MKD,North Macedonia,1990,9120,9818.53,25429.9927,35.86316405,Europe & Central Asia,Upper middle income
+MNP,Northern Mariana Islands,2016,293.4000015,177.61,460.0099,63.78123634,East Asia & Pacific,High income
+MNP,Northern Mariana Islands,1990,340,,,,East Asia & Pacific,High income
+NOR,Norway,2016,121140,140974.13,365122.9967,33.17786091,Europe & Central Asia,High income
+NOR,Norway,1990,121320,141020.84,365243.9756,33.21615361,Europe & Central Asia,High income
+OMN,Oman,2016,20,119498.07,309500.0013,0.006462036,Middle East & North Africa,High income
+OMN,Oman,1990,20,119498.07,309500.0013,0.006462036,Middle East & North Africa,High income
+PAK,Pakistan,2016,14290,297637.07,770880.0113,1.853725585,South Asia,Lower middle income
+PAK,Pakistan,1990,25270,297637.07,770880.0113,3.278071766,South Asia,Lower middle income
+PLW,Palau,2016,402.9999924,177.61,460.0099,87.60680855,East Asia & Pacific,High income
+PLW,Palau,1990,380,,,,East Asia & Pacific,High income
+PAN,Panama,2016,46006.00098,28702.7,74339.993,61.88593666,Latin America & Caribbean,High income
+PAN,Panama,1990,50400,28702.7,74339.993,67.79661655,Latin America & Caribbean,High income
+PNG,Papua New Guinea,2016,335561.9922,174849.42,452859.9978,74.09839549,East Asia & Pacific,Lower middle income
+PNG,Papua New Guinea,1990,336270,174849.42,452859.9978,74.25473692,East Asia & Pacific,Lower middle income
+PRY,Paraguay,2016,149975.9961,153397.68,397299.9912,37.74880428,Latin America & Caribbean,Upper middle income
+PRY,Paraguay,1990,211570,153397.68,397299.9912,53.25195185,Latin America & Caribbean,Upper middle income
+PER,Peru,2016,738053.9844,494208.49,1279999.989,57.66046802,Latin America & Caribbean,Upper middle income
+PER,Peru,1990,779210,494208.49,1279999.989,60.87578177,Latin America & Caribbean,Upper middle income
+PHL,Philippines,2016,82800,115123.55,298169.9945,27.76939381,East Asia & Pacific,Lower middle income
+PHL,Philippines,1990,65550,115123.55,298169.9945,21.98410343,East Asia & Pacific,Lower middle income
+POL,Poland,2016,94562.00195,118220.08,306190.0072,30.8834383,Europe & Central Asia,High income
+POL,Poland,1990,88810,118258.69,306290.0071,28.99539585,Europe & Central Asia,High income
+PRT,Portugal,2016,31706.00098,35368.96,91605.6064,34.61141979,Europe & Central Asia,High income
+PRT,Portugal,1990,34360,35328.19,91500.0121,37.5519076,Europe & Central Asia,High income
+PRI,Puerto Rico,2016,4992.600098,3424.71,8869.9989,56.2863666,Latin America & Caribbean,High income
+PRI,Puerto Rico,1990,2870,3424.71,8869.9989,32.35626106,Latin America & Caribbean,High income
+QAT,Qatar,2016,,4482.63,11610.0117,,Middle East & North Africa,High income
+QAT,Qatar,1990,,4482.63,11610.0117,,Middle East & North Africa,High income
+ROU,Romania,2016,69302.00195,88833.98,230080.0082,30.12082731,Europe & Central Asia,Upper middle income
+ROU,Romania,1990,63710,88552.12,229349.9908,27.77850558,Europe & Central Asia,Upper middle income
+RUS,Russian Federation,2016,8148895,6323115.83,16376870,49.75856192,Europe & Central Asia,Upper middle income
+RUS,Russian Federation,1990,8089500,6328166.02,16389949.99,49.35646542,Europe & Central Asia,Upper middle income
+RWA,Rwanda,2016,4867.999878,9525.1,24670.009,19.73246089,Sub-Saharan Africa,Low income
+RWA,Rwanda,1990,3180,9525.1,24670.009,12.89014528,Sub-Saharan Africa,Low income
+WSM,Samoa,2016,1710,1092.66,2829.9894,60.42425459,East Asia & Pacific,Upper middle income
+WSM,Samoa,1990,1300,1092.66,2829.9894,45.93656782,East Asia & Pacific,Upper middle income
+SMR,San Marino,2016,,23.17,60.0103,,Europe & Central Asia,High income
+SMR,San Marino,1990,,23.17,60.0103,,Europe & Central Asia,High income
+STP,Sao Tome and Principe,2016,535.9999847,370.66,960.0094,55.83278504,Sub-Saharan Africa,Lower middle income
+STP,Sao Tome and Principe,1990,560,370.66,960.0094,58.33276216,Sub-Saharan Africa,Lower middle income
+SAU,Saudi Arabia,2016,9770,829996.14,2149690.003,0.454484134,Middle East & North Africa,High income
+SAU,Saudi Arabia,1990,9770,829996.14,2149690.003,0.454484134,Middle East & North Africa,High income
+SEN,Senegal,2016,82330,74335.91,192530.0069,42.7621654,Sub-Saharan Africa,Low income
+SEN,Senegal,1990,93480,74335.91,192530.0069,48.55347045,Sub-Saharan Africa,Low income
+SRB,Serbia,2016,27213.99902,33768.34,87460.0006,31.11593738,Europe & Central Asia,Upper middle income
+SRB,Serbia,1990,24760,33768.34,87460.0006,28.31008442,Europe & Central Asia,Upper middle income
+SYC,Seychelles,2016,406.6999817,177.61,460.0099,88.41113674,Sub-Saharan Africa,High income
+SYC,Seychelles,1990,406.6999817,177.61,460.0099,88.41113674,Sub-Saharan Africa,High income
+SLE,Sierra Leone,2016,31076.00098,27868.73,72180.0107,43.05347239,Sub-Saharan Africa,Low income
+SLE,Sierra Leone,1990,31180,27868.73,72180.0107,43.19755525,Sub-Saharan Africa,Low income
+SGP,Singapore,2016,163.5000038,273.75,709.0125,23.06024277,East Asia & Pacific,High income
+SGP,Singapore,1990,163.5000038,258.69,670.0071,24.40272705,East Asia & Pacific,High income
+SXM,Sint Maarten (Dutch part),2016,,13.13,34.0067,,Latin America & Caribbean,High income
+SXM,Sint Maarten (Dutch part),1990,,13.13,34.0067,,Latin America & Caribbean,High income
+SVK,Slovak Republic,2016,19401.99951,18563.71,48080.0089,40.35356888,Europe & Central Asia,High income
+SVK,Slovak Republic,1990,19220,18571.43,48100.0037,39.95841688,Europe & Central Asia,High income
+SVN,Slovenia,2016,12481.99951,7776.83,20141.9897,61.97004217,Europe & Central Asia,High income
+SVN,Slovenia,1990,11880,7776.06,20139.9954,58.98710384,Europe & Central Asia,High income
+SLB,Solomon Islands,2016,21793.99902,10806.95,27990.0005,77.86351779,East Asia & Pacific,Lower middle income
+SLB,Solomon Islands,1990,23240,10806.95,27990.0005,83.02965196,East Asia & Pacific,Lower middle income
+SOM,Somalia,2016,62862.00195,242216.22,627340.0098,10.02040376,Sub-Saharan Africa,Low income
+SOM,Somalia,1990,82820,242216.22,627340.0098,13.20177236,Sub-Saharan Africa,Low income
+ZAF,South Africa,2016,92410,468374.52,1213090.007,7.617736481,Sub-Saharan Africa,Upper middle income
+ZAF,South Africa,1990,92410,468374.52,1213090.007,7.617736481,Sub-Saharan Africa,Upper middle income
+SSD,South Sudan,2016,71570,,,,Sub-Saharan Africa,Low income
+SSD,South Sudan,1990,,,,,Sub-Saharan Africa,Low income
+ESP,Spain,2016,184520,192881.85,499563.9915,36.936209,Europe & Central Asia,High income
+ESP,Spain,1990,138094.9023,192833.98,499440.0082,27.64994795,Europe & Central Asia,High income
+LKA,Sri Lanka,2016,20633.99902,24212.36,62710.0124,32.90383502,South Asia,Lower middle income
+LKA,Sri Lanka,1990,22840,24212.36,62710.0124,36.42161614,South Asia,Lower middle income
+KNA,St. Kitts and Nevis,2016,110,100.39,260.0101,42.30604888,Latin America & Caribbean,High income
+KNA,St. Kitts and Nevis,1990,110,100.39,260.0101,42.30604888,Latin America & Caribbean,High income
+LCA,St. Lucia,2016,202.3999977,235.52,609.9968,33.18050155,Latin America & Caribbean,Upper middle income
+LCA,St. Lucia,1990,217.9999924,235.52,609.9968,35.73789115,Latin America & Caribbean,Upper middle income
+MAF,St. Martin (French part),2016,,21,54.39,,Latin America & Caribbean,High income
+MAF,St. Martin (French part),1990,10,21,54.39,18.38573267,Latin America & Caribbean,High income
+VCT,St. Vincent and the Grenadines,2016,270,150.58,390.0022,69.2303787,Latin America & Caribbean,Upper middle income
+VCT,St. Vincent and the Grenadines,1990,250,150.58,390.0022,64.1022025,Latin America & Caribbean,Upper middle income
+SDN,Sudan,2016,190355.293,,,,Sub-Saharan Africa,Lower middle income
+SDN,Sudan,1990,,,,,Sub-Saharan Africa,Lower middle income
+SUR,Suriname,2016,153282.002,60231.66,155999.9994,98.25769397,Latin America & Caribbean,Upper middle income
+SUR,Suriname,1990,154300,60231.66,155999.9994,98.91025679,Latin America & Caribbean,Upper middle income
+SWE,Sweden,2016,280730,157262.55,407310.0045,68.92293263,Europe & Central Asia,High income
+SWE,Sweden,1990,280630,158432.43,410339.9937,68.38962916,Europe & Central Asia,High income
+CHE,Switzerland,2016,12578.00049,15257.14,39515.9926,31.83015195,Europe & Central Asia,High income
+CHE,Switzerland,1990,11510,15262.16,39528.9944,29.11786696,Europe & Central Asia,High income
+SYR,Syrian Arab Republic,2016,4910,70899.61,183629.9899,2.673855182,Middle East & North Africa,Low income
+SYR,Syrian Arab Republic,1990,3720,70957.53,183780.0027,2.024159291,Middle East & North Africa,Low income
+TJK,Tajikistan,2016,4123.999939,53586.87,138789.9933,2.971395733,Europe & Central Asia,Low income
+TJK,Tajikistan,1990,4080,54038.61,139959.9999,2.915118607,Europe & Central Asia,Low income
+TZA,Tanzania,2016,456880,342007.72,885799.9948,51.57823467,Sub-Saharan Africa,Low income
+TZA,Tanzania,1990,559200,342007.72,885799.9948,63.12937495,Sub-Saharan Africa,Low income
+THA,Thailand,2016,164290,197254.83,510890.0097,32.1576067,East Asia & Pacific,Upper middle income
+THA,Thailand,1990,140050,197254.83,510890.0097,27.41294551,East Asia & Pacific,Upper middle income
+TLS,Timor-Leste,2016,6747.999878,5741.31,14869.9929,45.3799805,East Asia & Pacific,Lower middle income
+TLS,Timor-Leste,1990,9660,5741.31,14869.9929,64.9630438,East Asia & Pacific,Lower middle income
+TGO,Togo,2016,1681.999969,21000,54390,3.092480178,Sub-Saharan Africa,Low income
+TGO,Togo,1990,6850,21000,54390,12.59422688,Sub-Saharan Africa,Low income
+TON,Tonga,2016,90,277.99,719.9941,12.50010243,East Asia & Pacific,Upper middle income
+TON,Tonga,1990,90,277.99,719.9941,12.50010243,East Asia & Pacific,Upper middle income
+TTO,Trinidad and Tobago,2016,2361.000061,1980.69,5129.9871,46.02350873,Latin America & Caribbean,High income
+TTO,Trinidad and Tobago,1990,2406.999969,1980.69,5129.9871,46.92019535,Latin America & Caribbean,High income
+TUN,Tunisia,2016,10511.99951,59984.56,155360.0104,6.766219623,Middle East & North Africa,Lower middle income
+TUN,Tunisia,1990,6430,59984.56,155360.0104,4.138774182,Middle East & North Africa,Lower middle income
+TUR,Turkey,2016,118174.0039,297154.44,769629.9996,15.35465145,Europe & Central Asia,Upper middle income
+TUR,Turkey,1990,96220,297154.44,769629.9996,12.50211141,Europe & Central Asia,Upper middle income
+TKM,Turkmenistan,2016,41270,181440.15,469929.9885,8.78215926,Europe & Central Asia,Upper middle income
+TKM,Turkmenistan,1990,41270,181440.15,469929.9885,8.78215926,Europe & Central Asia,Upper middle income
+TCA,Turks and Caicos Islands,2016,344.0000153,366.8,950.012,36.21007054,Latin America & Caribbean,High income
+TCA,Turks and Caicos Islands,1990,344.0000153,366.8,950.012,36.21007054,Latin America & Caribbean,High income
+TUV,Tuvalu,2016,10,11.58,29.9922,33.34200225,East Asia & Pacific,Upper middle income
+TUV,Tuvalu,1990,10,11.58,29.9922,33.34200225,East Asia & Pacific,Upper middle income
+UGA,Uganda,2016,19418.00049,77420.85,200520.0015,9.683822235,Sub-Saharan Africa,Low income
+UGA,Uganda,1990,47510,77146.72,199810.0048,23.77758814,Sub-Saharan Africa,Low income
+UKR,Ukraine,2016,96787.99805,223664.09,579289.9931,16.70803901,Europe & Central Asia,Lower middle income
+UKR,Ukraine,1990,92740,223687.26,579350.0034,16.00759462,Europe & Central Asia,Lower middle income
+ARE,United Arab Emirates,2016,3236.600037,27420.85,71020.0015,4.557307756,Middle East & North Africa,High income
+ARE,United Arab Emirates,1990,2450,27420.85,71020.0015,3.449732397,Middle East & North Africa,High income
+GBR,United Kingdom,2016,31610,93409.27,241930.0093,13.06576232,Europe & Central Asia,High income
+GBR,United Kingdom,1990,27780,93409.27,241930.0093,11.48265983,Europe & Central Asia,High income
+USA,United States,2016,3103700,3531822.39,9147419.99,33.9297857,North America,High income
+USA,United States,1990,3024500,3536277.99,9158959.994,33.02230823,North America,High income
+URY,Uruguay,2016,18677.3999,67575.29,175020.0011,10.67158027,Latin America & Caribbean,High income
+URY,Uruguay,1990,7977.999878,67575.29,175020.0011,4.558336092,Latin America & Caribbean,High income
+UZB,Uzbekistan,2016,32087.80029,164247.1,425399.989,7.542971584,Europe & Central Asia,Lower middle income
+UZB,Uzbekistan,1990,30450,164247.1,425399.989,7.157969155,Europe & Central Asia,Lower middle income
+VUT,Vanuatu,2016,4400,4706.56,12189.9904,36.09518839,East Asia & Pacific,Lower middle income
+VUT,Vanuatu,1990,4400,4706.56,12189.9904,36.09518839,East Asia & Pacific,Lower middle income
+VEN,"Venezuela, RB",2016,465186.0156,340559.85,882050.0115,52.7391882,Latin America & Caribbean,Upper middle income
+VEN,"Venezuela, RB",1990,520260,340559.85,882050.0115,58.98305008,Latin America & Caribbean,Upper middle income
+VNM,Vietnam,2016,149020,119718.15,310070.0085,48.06011414,East Asia & Pacific,Lower middle income
+VNM,Vietnam,1990,93630,125671.81,325489.9879,28.76586177,East Asia & Pacific,Lower middle income
+VIR,Virgin Islands (U.S.),2016,174.8999977,135.14,350.0126,49.96962901,Latin America & Caribbean,High income
+VIR,Virgin Islands (U.S.),1990,235.7999992,135.14,350.0126,67.36900306,Latin America & Caribbean,High income
+PSE,West Bank and Gaza,2016,91.70000076,2324.32,6019.9888,1.523258661,Middle East & North Africa,Lower middle income
+PSE,West Bank and Gaza,1990,90.79999924,2324.32,6019.9888,1.508308441,Middle East & North Africa,Lower middle income
+WLD,World,2016,39958245.9,49171676.23,127354641.4,31.37557096,World,NULL
+WLD,World,1990,41282694.9,49161570.44,127328467.4,32.42220356,World,NULL
+YEM,"Yemen, Rep.",2016,5490,203849.42,527969.9978,1.039831813,Middle East & North Africa,Low income
+YEM,"Yemen, Rep.",1990,5490,203849.42,527969.9978,1.039831813,Middle East & North Africa,Low income
+ZMB,Zambia,2016,484683.9844,287023.17,743390.0103,65.19915222,Sub-Saharan Africa,Lower middle income
+ZMB,Zambia,1990,528000,287023.17,743390.0103,71.02597461,Sub-Saharan Africa,Lower middle income
+ZWE,Zimbabwe,2016,137495.9961,149362.93,386849.9887,35.54245835,Sub-Saharan Africa,Low income
+ZWE,Zimbabwe,1990,221640,149362.93,386849.9887,57.2935263,Sub-Saharan Africa,Low income
