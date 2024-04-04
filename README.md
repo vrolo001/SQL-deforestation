@@ -6,4 +6,4 @@ SQL-based project where I conduct a series of operations on World Bank forestati
 - categorising counties into quartiles based on forest percentage using CASE WHEN
 - computing arithmetic operations
 
-Recommendations and data-derived insights can be found in the DEF_report and centre on focusing reforestation efforst in Brazil and SUb-Saharan Africa, as these are the country and world region with greatest deforestation.
+Recommendations and data-derived insights can be found in the DEF_report and centre on focusing reforestation efforst in Brazil and Sub-Saharan Africa, as these are the country and world region with greatest deforestation.
